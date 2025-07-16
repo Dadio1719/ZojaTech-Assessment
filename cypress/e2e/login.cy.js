@@ -1,6 +1,6 @@
-describe('User Login', () => {
+describe('User Login Page', () => {
     beforeEach(() => {
-      cy.visit('/')
+      cy.visit('https://parabank.parasoft.com/parabank/index.htm')
     })
   
     it('Logs in with valid credentials', () => {

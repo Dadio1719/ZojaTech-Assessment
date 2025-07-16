@@ -1,11 +1,14 @@
 {
-    "username": "AdioDamilola",
-    "password": "Password123",
-    "firstName": "Test",
-    "lastName": "User",
-    "address": "123 Test Street",
-    "phone": "08012345678",
-    "initialDeposit": "1000",
-    "transferAmount": "250"
-  }
-  
+  "username": "testuser005",
+  "password": "Password124",
+  "firstName": "Test",
+  "lastName": "User",
+  "address": "123 Test Street",
+  "city": "Lagos",
+  "state": "Lagos",
+  "zipCode": "100001",
+  "phone": "08012345678",
+  "ssn": "123-45-6789",
+  "initialDeposit": "1000",
+  "transferAmount": "250"
+}
